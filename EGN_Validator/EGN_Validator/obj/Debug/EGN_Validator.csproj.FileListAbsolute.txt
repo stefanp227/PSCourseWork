@@ -1,0 +1,14 @@
+C:\Users\capit\Source\Repos\General\EGN_Validator\EGN_Validator\bin\Debug\EGN_Validator.exe.config
+C:\Users\capit\Source\Repos\General\EGN_Validator\EGN_Validator\bin\Debug\EGN_Validator.exe
+C:\Users\capit\Source\Repos\General\EGN_Validator\EGN_Validator\bin\Debug\EGN_Validator.pdb
+C:\Users\capit\Source\Repos\General\EGN_Validator\EGN_Validator\obj\Debug\EGN_Validator.csprojResolveAssemblyReference.cache
+C:\Users\capit\Source\Repos\General\EGN_Validator\EGN_Validator\obj\Debug\MainWindow.g.cs
+C:\Users\capit\Source\Repos\General\EGN_Validator\EGN_Validator\obj\Debug\App.g.cs
+C:\Users\capit\Source\Repos\General\EGN_Validator\EGN_Validator\obj\Debug\EGN_Validator_MarkupCompile.cache
+C:\Users\capit\Source\Repos\General\EGN_Validator\EGN_Validator\obj\Debug\EGN_Validator_MarkupCompile.lref
+C:\Users\capit\Source\Repos\General\EGN_Validator\EGN_Validator\obj\Debug\MainWindow.baml
+C:\Users\capit\Source\Repos\General\EGN_Validator\EGN_Validator\obj\Debug\EGN_Validator.g.resources
+C:\Users\capit\Source\Repos\General\EGN_Validator\EGN_Validator\obj\Debug\EGN_Validator.Properties.Resources.resources
+C:\Users\capit\Source\Repos\General\EGN_Validator\EGN_Validator\obj\Debug\EGN_Validator.csproj.GenerateResource.Cache
+C:\Users\capit\Source\Repos\General\EGN_Validator\EGN_Validator\obj\Debug\EGN_Validator.exe
+C:\Users\capit\Source\Repos\General\EGN_Validator\EGN_Validator\obj\Debug\EGN_Validator.pdb
